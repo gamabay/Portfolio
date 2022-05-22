@@ -136,7 +136,7 @@ h2 {
 }
 
 .intro .bio {
-  font-size: 23px;
+  font-size: 21px;
   letter-spacing: -0.5px;
   line-height: 28px;
   -webkit-font-smoothing: antialiased;
@@ -204,13 +204,13 @@ h2 {
 
 .project .mainTitle, .project h1 {
   font-weight: 800 !important;
-  font-size: 36px;
+  font-size: 34px;
   letter-spacing: -1.10px;
   color: #121314
 }
 
 .project .title, .project h2 {
-  font-size: 23px;
+  font-size: 21px;
   font-weight: 800;
   letter-spacing: -0.4px;
   color: #121314
@@ -224,7 +224,7 @@ h2 {
 .project p {
   -webkit-font-smoothing: antialiased;
   font-weight: 400;
-  font-size: 23px;
+  font-size: 21px;
   line-height: 30px;
   letter-spacing: -0.4px;
   position: relative;
@@ -233,9 +233,9 @@ h2 {
 }
 
 p.introCopy {
-  font-size: 23px;
+  font-size: 21px;
   line-height: 30px;
-  margin-bottom: 20px;
+  margin-bottom: 80px;
 }
 
 
@@ -485,4 +485,3 @@ p.introCopy {
   text-decoration: none;
   color: #333435;
 }
-
